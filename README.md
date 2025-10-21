@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://www.jeffbuildstech.com/blog](https://www.jeffbuildstech.com/blog)
 
-- 📫 How to reach me **jeff.jakinovich@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/jeff-jakinovich/](https://www.linkedin.com/in/jeff-jakinovich/)
 
 - ⚡ Fun fact **I make a mean espresso**
